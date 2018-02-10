@@ -1,0 +1,17 @@
+{
+  "temperature" : 2.3,
+  "configurations" : 10000,
+  "algorithm" : "glauber",
+  "animate" : "False",
+  "x_dimension" : 50,
+  "y_dimension" : 50,
+  "find_temp_dependence" : "False",
+  "temp_range" : [1, 3],
+  "temp_inc" : 0.1,
+  "measure_magnetisation" : "True",
+  "measure_susceptibility" : "True",
+  "measure_average_energy" : "True",
+  "measure_heat_capacity" : "True",
+  "error_algorithm" : "bootstrap",
+  "create_random_system" : "True"
+}
